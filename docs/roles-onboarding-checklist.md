@@ -99,7 +99,7 @@ This document helps new contributors get up to speed quickly by providing a comm
 - [ ] Review the current backlog for stories that lack sufficient acceptance criteria
 - [ ] Schedule introductory meetings with key Stakeholder Representatives
 - [ ] Identify any requirements gaps for the current sprint or upcoming release
-- [ ] Familiarise yourself with the escalation path for conflicting requirements (see [RACI](role-interactions-and-raci.md))
+- [ ] Familiarize yourself with the escalation path for conflicting requirements (see [RACI](role-interactions-and-raci.md))
 
 ---
 

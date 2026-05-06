@@ -84,7 +84,7 @@ Scrum Masters facilitate agile ceremonies, remove impediments, and coach the tea
 - Facilitate daily standups, sprint planning, reviews, and retrospectives
 - Identify and remove blockers that slow the team
 - Coach team members on agile principles and practices
-- Shield the team from unplanned interruptions during a sprint
+- Protect the team from unplanned interruptions during a sprint
 - Track team health and surface process improvement opportunities
 
 ### Goals
