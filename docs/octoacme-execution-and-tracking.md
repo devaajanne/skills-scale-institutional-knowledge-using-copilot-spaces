@@ -4,9 +4,10 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — focus on progress, blockers, dependencies; facilitated by Scrum Master
 - Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Demo/Review at the end of each sprint or milestone — UX Designer and Stakeholder Representative attend to provide feedback
+- Release prep — Technical Writer prepares release notes in parallel with final QA sign-off
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
